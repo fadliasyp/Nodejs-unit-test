@@ -9,4 +9,3 @@ export const sayHelloAsync = (name) => {
         }, 1000)
     })
 }
-

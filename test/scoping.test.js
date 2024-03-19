@@ -5,7 +5,7 @@ afterEach(() => console.info('after Each outer'))
 
 test('test outer', () => {
     console.info('test outer')
-})
+}) 
 
 describe('inner 1', () =>{
     beforeAll(() => console.info('before all outer'))
