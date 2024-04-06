@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1710569698820" clover="3.2.0">
-  <project timestamp="1710569698820" name="All files">
-    <metrics statements="17" coveredstatements="8" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="1" elements="27" coveredelements="9" complexity="0" loc="17" ncloc="17" packages="1" files="3" classes="3"/>
+<coverage generated="1711343041181" clover="3.2.0">
+  <project timestamp="1711343041181" name="All files">
+    <metrics statements="31" coveredstatements="12" conditionals="6" coveredconditionals="0" methods="9" coveredmethods="2" elements="46" coveredelements="14" complexity="0" loc="31" ncloc="31" packages="1" files="4" classes="4"/>
     <file name="async.js" path="C:\Users\Lenovo\OneDrive\Desktop\belajar-nodejs-unit-test-pzn\src\async.js">
-      <metrics statements="6" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
-      <line num="1" count="1" type="stmt"/>
+      <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
       <line num="2" count="0" type="stmt"/>
       <line num="3" count="0" type="stmt"/>
       <line num="4" count="0" type="cond" truecount="0" falsecount="2"/>
@@ -12,21 +12,38 @@
       <line num="7" count="0" type="stmt"/>
     </file>
     <file name="exception.js" path="C:\Users\Lenovo\OneDrive\Desktop\belajar-nodejs-unit-test-pzn\src\exception.js">
-      <metrics statements="4" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
-      <line num="4" count="1" type="stmt"/>
+      <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="4" count="0" type="stmt"/>
       <line num="5" count="0" type="cond" truecount="0" falsecount="2"/>
       <line num="6" count="0" type="stmt"/>
       <line num="8" count="0" type="stmt"/>
     </file>
+    <file name="sayHello.js" path="C:\Users\Lenovo\OneDrive\Desktop\belajar-nodejs-unit-test-pzn\src\sayHello.js">
+      <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="2" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+    </file>
     <file name="sum.js" path="C:\Users\Lenovo\OneDrive\Desktop\belajar-nodejs-unit-test-pzn\src\sum.js">
-      <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
-      <line num="1" count="4" type="stmt"/>
+      <metrics statements="17" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
       <line num="2" count="0" type="stmt"/>
-      <line num="5" count="4" type="stmt"/>
-      <line num="6" count="3" type="stmt"/>
-      <line num="7" count="3" type="stmt"/>
-      <line num="8" count="15" type="stmt"/>
-      <line num="11" count="3" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="5" type="stmt"/>
+      <line num="16" count="5" type="stmt"/>
+      <line num="17" count="17" type="stmt"/>
+      <line num="19" count="5" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="4" type="stmt"/>
+      <line num="23" count="4" type="stmt"/>
+      <line num="24" count="7" type="stmt"/>
+      <line num="26" count="4" type="stmt"/>
     </file>
   </project>
 </coverage>

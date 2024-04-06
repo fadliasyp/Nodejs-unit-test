@@ -20,4 +20,4 @@ test('fadli', () => {
     expect(() => fadli(null)).toThrow()
 })
 
-// kalau pakai toThrow harus di barengi expectnya function yang ada thrownya juga
+// kalau pakai toThrnow harus di barengi expectnya function yang ada thrownya juga
